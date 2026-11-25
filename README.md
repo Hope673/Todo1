@@ -1,6 +1,8 @@
 # React + Vite
 
-This is a simple react project done under 7 hours. This is done by Opatoro Hope Adeyemi. This project is depoloyed on vercel and will be added to my project on my portfolio. Thank yoiu!
+This is a simple react project done under 7 hours. This is done by Opatoro Hope Adeyemi. This project is depoloyed on vercel and will be added to my project on my portfolio. Thank you!
+
+This is currently live at https://todo1-gbrb.vercel.app/
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
