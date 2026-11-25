@@ -40,7 +40,7 @@ function App() {
   }
 
   return (
-    <div className="bg-gray-200">
+    <div className="bg-gray-200 w-[800px] flex flex-col">
       <Header />
       <AddItem
         newItem={newItem}
